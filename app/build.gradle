@@ -13,7 +13,7 @@ android {
     }
     repositories {
         flatDir {
-            dirs 'libs'   // aar table of contents
+            dirs 'libs'   // aar directory
         }
     }
     buildTypes {
